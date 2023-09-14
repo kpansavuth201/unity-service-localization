@@ -1,0 +1,57 @@
+[
+  {
+    "key": "TEST",
+    "value": {
+      "EN": "Test Ja",
+      "TH": "เทสจ้า"
+    }
+  },
+
+  {
+    "key": "PICK_AVATAR",
+    "value": {
+      "EN": "Pick an avatar",
+      "TH": "เลือกตัวละคร"
+    }
+  },
+
+  {
+    "key": "EDIT_CHARACTER",
+    "value": {
+      "EN": "You'll be able to customize it later",
+      "TH": "คุณสามารถแก้ไขตัวละครได้ในภายหลัง"
+    }
+  },
+
+  {
+    "key": "LETS_START_AVARTA",
+    "value": {
+      "EN": "Let's start as this avatar",
+      "TH": "เริ่มการใช้งานด้วยตัวละครนี้"
+    }
+  },
+
+  {
+    "key": "HAVE_AVATAR",
+    "value": {
+      "EN": "I already have an avatar",
+      "TH": "ฉันมีตัวละครที่สร้างไว้แล้ว"
+    }
+  },
+
+  {
+    "key": "AVATAR_NAME",
+    "value": {
+      "EN": "Avatar Name",
+      "TH": "ชื่อตัวละคร"
+    }
+  },
+
+  {
+    "key": "NAME_YOUR_AVATAR",
+    "value": {
+      "EN": "Name Your Avatar",
+      "TH": "ใส่ชื่อตัวละครของคุณ"
+    }
+  }
+]
